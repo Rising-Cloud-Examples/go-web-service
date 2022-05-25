@@ -114,4 +114,4 @@ The Web Service URL for all new apps needs a few minutes to propogate across the
 ```
 https://<your_task_url>.risingcloud.app/hello
 ```
-Congratulations, you’ve successfully created and used Go on Rising Cloud!
+Congratulations, you’ve successfully used Go on Rising Cloud!
